@@ -1,0 +1,6 @@
+{
+  "name": "ระบบพิมพ์สติกเกอร์ยา รพ.สต.หนองชิ่ม",
+  "description": "ระบบจัดทำและพิมพ์สติกเกอร์ฉลากยาตรงตามแบบจริง พร้อมระบบบันทึกทะเบียน โรงพยาบาลส่งเสริมสุขภาพตำบลหนองชิ่ม",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
